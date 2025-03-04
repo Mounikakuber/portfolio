@@ -391,7 +391,7 @@ export const projects = [
     title: "NGO Portal",
     date: "Nov 2024 - Dec 2024",
     description: "Your NGO portal, crafted with HTML, CSS, JavaScript, and Bootstrap, empowers users to donate effortlessly with a Donate button and connect via a Contact feature. Its sleek, responsive design enhances accessibility and user experience.",
-    image: "/images/ngo portal.png",
+    image: "/images/ngo_portal.png",
     tags: ["HTML", "CSS", "JS", "Bootstrap"],
     category: "web app",
     github: "https://github.com/Mounikakuber/FundraisingNGOportal",
